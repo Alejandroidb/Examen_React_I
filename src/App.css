@@ -1,0 +1,11 @@
+body {
+    background-image: linear-gradient(blue, red);
+}
+h1 {
+    text-align: center;
+    color: white;
+}
+
+.card-img-top {
+    height: 500px;
+}
